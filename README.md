@@ -1,5 +1,34 @@
 *[English](README.md) ∙ [日本語](README-ja.md) ∙ [简体中文](README-zh-Hans.md) ∙ [繁體中文](README-zh-TW.md) | [Arabic](https://github.com/donnemartin/system-design-primer/issues/170) ∙ [Bengali](https://github.com/donnemartin/system-design-primer/issues/220) ∙ [Brazilian Portuguese](https://github.com/donnemartin/system-design-primer/issues/40) ∙ [German](https://github.com/donnemartin/system-design-primer/issues/186) ∙ [Greek](https://github.com/donnemartin/system-design-primer/issues/130) ∙ [Italian](https://github.com/donnemartin/system-design-primer/issues/104) ∙ [Korean](https://github.com/donnemartin/system-design-primer/issues/102) ∙ [Persian](https://github.com/donnemartin/system-design-primer/issues/110) ∙ [Polish](https://github.com/donnemartin/system-design-primer/issues/68) ∙ [Russian](https://github.com/donnemartin/system-design-primer/issues/87) ∙ [Spanish](https://github.com/donnemartin/system-design-primer/issues/136) ∙ [Thai](https://github.com/donnemartin/system-design-primer/issues/187) ∙ [Turkish](https://github.com/donnemartin/system-design-primer/issues/39) ∙ [Vietnamese](https://github.com/donnemartin/system-design-primer/issues/127) | [Add Translation](https://github.com/donnemartin/system-design-primer/issues/28)*
+## Checklist - Tracking Personal Progress
 
+  | Topic | Completed? | Notes | Related Links |
+  |---|:-:|---|---|
+  |[Review the scalability video lecture](#step-1-review-the-scalability-video-lecture)| :x: |  |  |
+  |[Review the scalability article](#step-2-review-the-scalability-article)| :x: |  |  |
+  |[Performance vs scalability](#performance-vs-scalability)|:x: |  |  |
+|[Latency vs throughput](#latency-vs-throughput)|:x: |  |  |
+|[Availability vs consistency](#availability-vs-consistency)|:x: |  |  |
+|[CAP theorem](#cap-theorem)|:x: |  |  |
+|[Consistency patterns](#consistency-patterns)|:x: |  |  |
+|[Availability patterns](#availability-patterns)|:x: |  |  |
+|[Domain name system](#domain-name-system)|:x: |  |  |
+|[Content delivery network](#content-delivery-network)|:x: |  |  |
+|[Load balancers](#load-balancer)|:x: |  |  |
+|[Reverse proxy (web server)](#reverse-proxy-web-server)|:x: |  |  |
+|[Application layer](#application-layer)|:x: |  |  |
+|[Master-slave replication](#master-slave-replication)|:x: |  |  |
+|[Master-master replication](#master-master-replication)|:x: |  |  |
+|[Federation](#federation)|:x: |  |  |
+|[Sharding](#sharding)|:x: |  |  |
+|[Denormalization](#denormalization)|:x: |  |  |
+|[SQL tuning](#sql-tuning)|:x: |  |  |
+|[NoSQL](#nosql)|:x: |  |  |
+|[SQL or NoSQL](#sql-or-nosql)|:x: |  |  |
+|[Caching](#cache)|:x: |  |  |
+|[Cache update policies](#when-to-update-the-cache)|:x: |  |  |
+|[Asynchronism - Using Queues](#asynchronism)|:x: |  |  |
+|[Communication Protocols and Paradigms](#communication)|:x: |  |  |
+|[Security](#security)|:x: |  |  |
 # The System Design Primer
 
 <p align="center">
