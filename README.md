@@ -3,7 +3,7 @@
 
   | Topic | Completed? | Notes | Related Links |
   |---|:-:|---|---|
-  |[Review the scalability video lecture](#step-1-review-the-scalability-video-lecture)| :x: |  |  |
+  |[Review the scalability video lecture](#step-1-review-the-scalability-video-lecture)|:heavy_check_mark:| RAID, sticky sessions, data center redundancy| |
   |[Review the scalability article](#step-2-review-the-scalability-article)| :x: |  |  |
   |[Performance vs scalability](#performance-vs-scalability)|:x: |  |  |
 |[Latency vs throughput](#latency-vs-throughput)|:x: |  |  |
