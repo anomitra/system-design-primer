@@ -5,10 +5,10 @@
   |---|:-:|---|---|
   |[Review the scalability video lecture](#step-1-review-the-scalability-video-lecture)|:heavy_check_mark:| RAID, sticky sessions, data center redundancy| [RAID levels explained](https://www.booleanworld.com/raid-levels-explained/), [hypervisor basics](https://www.dummies.com/programming/networking/the-basics-of-hypervisors/) |
   |[Review the scalability article](#step-2-review-the-scalability-article)| :heavy_check_mark: | rolling deployments, caching strategies | [rolling deployment strategy](https://www.phusionpassenger.com/library/deploy/nginx/zero_downtime_redeployments/ruby/#how-it-works) |
-  |[Performance vs scalability](#performance-vs-scalability)|:x: |  |  |
-|[Latency vs throughput](#latency-vs-throughput)|:x: |  |  |
-|[Availability vs consistency](#availability-vs-consistency)|:x: |  |  |
-|[CAP theorem](#cap-theorem)|:x: |  |  |
+  |[Performance vs scalability](#performance-vs-scalability)|:heavy_check_mark:|  |  |
+|[Latency vs throughput](#latency-vs-throughput)|:heavy_check_mark:|  |  |
+|[Availability vs consistency](#availability-vs-consistency)|:heavy_check_mark:|  |  |
+|[CAP theorem](#cap-theorem)|:heavy_check_mark:|  |  |
 |[Consistency patterns](#consistency-patterns)|:x: |  |  |
 |[Availability patterns](#availability-patterns)|:x: |  |  |
 |[Domain name system](#domain-name-system)|:x: |  |  |
